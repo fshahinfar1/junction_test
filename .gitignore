@@ -1,0 +1,7 @@
+build/
+*.o
+*.ll
+*.a
+*.so
+tags
+boot
