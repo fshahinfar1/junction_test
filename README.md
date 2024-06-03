@@ -8,3 +8,5 @@ Add the `junction_run` binary to the system path.
 Run the `IOKernel` (look at script `run_junction_daemon.sh`)
 Run the programs with `junction_run`.
 
+> I needed to setup the arp table manually. There were some routing issues
+
